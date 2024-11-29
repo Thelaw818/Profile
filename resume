@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Your Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav {
+            background-color: #444;
+            padding: 10px;
+        }
+        nav a {
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+        nav a:hover {
+            background-color: #555;
+        }
+        section {
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #333;
+        }
+        h3 {
+            color: #555;
+        }
+        ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Your Name - Resume</h1>
+</header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="resume.html">Resume</a>
+    <a href="showcase1.html">Showcase 1</a>
+    <a href="showcase2.html">Showcase 2</a>
+    <a href="showcase3.html">Showcase 3</a>
+    <a href="showcase4.html">Showcase 4</a>
+</nav>
+
+<section>
+    <h2>Resume</h2>
+    <h3>Contact Information</h3>
+    <ul>
+        <li><strong>Email:</strong> your.email@example.com</li>
+        <li><strong>Phone:</strong> (123) 456-7890</li>
+        <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/yourprofile">linkedin.com/in/yourprofile</a></li>
+        <li><strong>Portfolio:</strong> <a href="http://yourportfolio.com">yourportfolio.com</a></li>
+    </ul>
+
+    <h3>Objective</h3>
+    <p>Dedicated and skilled web developer with a strong foundation in HTML, CSS, JavaScript, and other web technologies. Seeking to leverage my skills and creativity to contribute to dynamic web projects.</p>
+
+    <h3>Skills</h3>
+    <ul>
+        <li>HTML5, CSS3, JavaScript</li>
+        <li>Responsive Web Design</li>
+        <li>Adobe Photoshop, Adobe Animate</li>
+        <li>Version Control with Git</li>
+        <li>Project Management Tools (Trello, Jira)</li>
+    </ul>
+
+    <h3>Experience</h3>
+    <ul>
+        <li>
+            <strong>Web Developer Intern</strong><br>
+            <em>XYZ Tech Solutions, June 2023 - August 2023</em>
+            <p>Developed and maintained website features using HTML, CSS, and JavaScript. Worked in a team to design and implement web pages for clients, improving page load times and user experience.</p>
+        </li>
+        <li>
+            <strong>Freelance Web Designer</strong><br>
+            <em>Self-employed, January 2022 - Present</em>
+            <p>Designed custom websites for small businesses, focusing on mobile-first design and user-centric layouts. Collaborated with clients to understand their needs and deliver tailored solutions.</p>
+        </li>
+    </ul>
+
+    <h3>Education</h3>
+    <ul>
+        <li>
+            <strong>Bachelor of Science in Computer Engineering</strong><br>
+            <em>XYZ University, Expected Graduation: May 2025</em>
+            <p>Relevant Coursework: Web Development, Database Systems, Computer Networks, Data Structures</p>
+        </li>
+    </ul>
+
+</section>
+
+<footer>
+    <p>&copy; 2024 Your Name - Resume</p>
+</footer>
+
+</body>
+</html>
