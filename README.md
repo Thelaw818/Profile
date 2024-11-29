@@ -64,7 +64,7 @@
     <h2>Welcome to the World of Pigeon Racing</h2>
     <p>Pigeon racing, a thrilling sport where trained homing pigeons race back to their home lofts from a distant location, is a popular pastime in the United States. This sport has a long history, dating back to the early 20th century, and continues to attract dedicated enthusiasts today.</p>
     <p>The objective of pigeon racing is to see which pigeon returns home the fastest after being released from a set distance, ranging from short distances to several hundred miles. The pigeons are equipped with a small timing device that records the exact time of their arrival. This exciting sport has grown into a competitive industry, with events and championships held across the country.</p>
-    <p>Whether you're a newcomer to the sport or a seasoned racer, pigeon racing offers an unparalleled connection to nature and a deep appreciation for the remarkable abilities of these birds.</p>
+    <p>Whether you're a newcomer to the sport or a seasoned racer, pigeon racing offers an unparalleled connection to nature and a deep appreciation for the remarkable abilities of these birds Francisco Rosario.</p>
 </section>
 
 <footer>
